@@ -1,0 +1,5 @@
+{
+  "name": "Gender Predictor",
+  "description": "A machine learning gender prediction application based on name morphology and Naive Bayes classification.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
